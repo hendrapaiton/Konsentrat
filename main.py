@@ -8,7 +8,7 @@ app = FastAPI()
 
 @app.get("/api", response_model=FastUI, response_model_exclude_none=True)
 async def api() -> list[AnyComponent]:
-    return [c.Div(components=[c.Text(text="Halo Tiktok")])]
+    return [c.Div(components=[c.Text(text="Halo Tiktok")], class_name="container mt-4")]
 
 
 @app.get("/")
