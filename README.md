@@ -11,10 +11,10 @@ Web Application Portfolio for Mass and Automated Certificate Generation using Py
 If you wish to contribute to the development of the application, you can follow the steps below:
 
 1. Fork this repository.
-2. Create a new branch (git checkout -b new-feature).
+2. Create a new branch (`git checkout -b new-feature`).
 3. Make the necessary changes.
-4. Commit your changes (git commit -am 'Adding a new feature').
-5. Push to the branch you created (git push origin new-feature).
+4. Commit your changes (`git commit -am 'Adding a new feature'`).
+5. Push to the branch you created (`git push origin new-feature`).
 6. Create a pull request.
 
 ### Notes
